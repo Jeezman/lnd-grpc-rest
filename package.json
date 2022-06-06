@@ -1,0 +1,18 @@
+{
+  "name": "lnd-grpc-rest",
+  "version": "1.0.0",
+  "description": "Consume LND GRPC and REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LND",
+    "GRPC",
+    "REST",
+    "Bitcoin",
+    "Lightning"
+  ],
+  "author": "Tobi Adeyemi",
+  "license": "ISC"
+}
