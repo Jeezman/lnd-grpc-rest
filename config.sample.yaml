@@ -1,0 +1,4 @@
+lightning:
+  url: "xxx"
+  macaroon_path: "xxx"
+  tls_path: "xxx"
