@@ -14,5 +14,11 @@
     "Lightning"
   ],
   "author": "Tobi Adeyemi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13",
+    "js-yaml": "^4.1.0",
+    "request-promise": "^4.2.6"
+  }
 }
